@@ -23,7 +23,7 @@ B.S. in Data Science and Spatial Data Science, Concentration in Geography at the
 
 #### Mobile App Intern @ Phase4 Mobile (_Summers 2019 - 2021_)
 - Analyzed numerical charts/tables/graphs to monitor ad network revenue & app download revenue
-- Developed Python scripts to organize, filter, and analyze sound data catalogs across 3 major apps
+- Developed Python scripts to organize, filter, and analyze sound data catalogs across 3 major apps<br><br>
 
 
 ## For more information about my qualifications, [view my resume](Resume.md)
