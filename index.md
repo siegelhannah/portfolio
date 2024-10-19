@@ -1,7 +1,4 @@
-## Welcome to My Portfolio
-
-
-# Data Scientist
+# Data Science Portfolio
 ### Top Technical Skills: Python, C, SQL, GIS & Spatial Analysis Software, Excel/Tableau
 
 Hello! My name is Hannah Siegel, and I'm a third-year data science student at the University of Oregon. My interests lie in using data analysis techniques to tackle larger, spatial/geographic issues. Within my degree, I have a concentration in geography, which has not only given me practice with cleaning, analyzing and interpreting large datasets, but also with geospatial software and data visualization across location and space.  I'm especially excited in diving into topics concerning our environment, sustainability, and climate change.
