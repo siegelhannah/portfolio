@@ -1,9 +1,3 @@
----
-title: My Projects
-layout: default
-show_headshot: false
----
-
 ## My Projects
 Here are some of the projects I've worked on.
 
