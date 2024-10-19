@@ -26,4 +26,4 @@ B.S. in Data Science and Spatial Data Science, Concentration in Geography at the
 - Developed Python scripts to organize, filter, and analyze sound data catalogs across 3 major apps
 
 
-## For more information about my qualifications, see my [resume](Resume.md)
+## For more information about my qualifications, [view my resume](Resume.md)
