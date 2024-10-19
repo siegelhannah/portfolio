@@ -1,6 +1,4 @@
 ## My Projects
-Here are some of the projects I've worked on.
-
 
 
 - Project 1: Geospatial Analysis of Walkability in Salem, Oregon
