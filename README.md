@@ -17,7 +17,7 @@ Hello! My name is Hannah Siegel, and I'm a third-year data science student at th
 
 ## Education:
 B.S. in Data Science and Spatial Data Science, Concentration in Geography at the University of Oregon
-- (Expected graduation June 2026)
+(Expected graduation June 2026)
 
 ## Projects:
 
