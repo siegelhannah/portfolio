@@ -7,6 +7,5 @@ theme: jekyll-theme-minimal
 
 # Navigation links
 header_pages:
-  - index.md
-  - projects.md
-  - about.md
+  - Homepage.md
+  - Projects.md
