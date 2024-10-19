@@ -1,4 +1,4 @@
-## My Projects
+# My Projects
 
 
 - Project 1: Geospatial Analysis of Walkability in Salem, Oregon
