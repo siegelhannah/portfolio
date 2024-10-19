@@ -1,9 +1,3 @@
----
-title: Hannah Siegel
-layout: default
-show_headshot: true
----
-
 ## Welcome to My Portfolio
 
 
