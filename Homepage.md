@@ -20,5 +20,5 @@ B.S. in Data Science and Spatial Data Science, Concentration in Geography at the
 (Expected graduation June 2026)
 
 ## Projects:
-[View My Projects](projects.md)
+[View My Projects](Projects.md)
 
