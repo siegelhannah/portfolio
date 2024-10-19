@@ -1,3 +1,12 @@
+---
+title: Hannah Siegel
+layout: default
+show_headshot: true
+---
+
+## Welcome to My Portfolio
+
+
 # Data Scientist
 ### Top Technical Skills: Python, C, SQL, GIS & Spatial Analysis Software, Excel/Tableau
 
