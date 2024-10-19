@@ -9,3 +9,4 @@ theme: jekyll-theme-minimal
 header_pages:
   - index.md
   - Projects.md
+  - Resume.md
