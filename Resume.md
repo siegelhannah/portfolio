@@ -1,5 +1,5 @@
 # My Resume
 
-<a href="assets/Salem_Final_Project.pdf">
-    <img src="assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 200px;">
+<a href="assets/Resume_Hannah_Siegel.pdf">
+    <img src="assets/Resume_Hannah_Siegel.jpg" alt="Resume" style="width: 300px;">
 </a>
