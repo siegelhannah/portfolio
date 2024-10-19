@@ -1,6 +1,13 @@
-# My Projects
+---
+title: My Projects
+layout: default
+show_headshot: false
+---
 
-Here are some of the projects I'm working on:
+## My Projects
+Here are some of the projects I've worked on.
+
+
 
 - Project 1
 - Project 2
