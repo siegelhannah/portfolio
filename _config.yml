@@ -1,4 +1,7 @@
 title: Hannah Siegel
+
+headshot_size: "150px"  # Adjust as needed
+
 logo: /assets/Github_headshot.jpg
 # description: Third-year data science student
 # show_download: true
