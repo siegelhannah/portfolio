@@ -1,12 +1,3 @@
----
-title: Home
-show_headshot: true
----
-
-{% if page.show_headshot %}
-    <img src="/assets/Github_headshot.jpg" alt="Hannah Siegel Logo" style="width: {{ site.headshot_size }};">
-{% endif %}
-
 # Data Science Portfolio
 #### Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau
 
