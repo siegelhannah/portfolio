@@ -1,8 +1,3 @@
----
-title: Projects
-show_headshot: false
----
-
 # My Projects
 
 
