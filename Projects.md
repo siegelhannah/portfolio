@@ -1,5 +1,6 @@
 # My Projects
 
+## GIS Projects:
 
 - Project 1: Geospatial Analysis of Walkability in Salem, Oregon
 
@@ -9,6 +10,10 @@
 
 This project utilized large spatial datasets of different walkability factors in Salem, and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable map of city planning recommendations.
 
+
+## Coding projects:
+
+Shown on [My GitHub Profile](https://github.com/siegelhannah)
 
 
 [Back to Home](index.md)
