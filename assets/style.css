@@ -42,10 +42,10 @@ nav ul li a:hover {
 /* Headshot Styling */
 .headshot {
   text-align: center;
-  margin-top: 250px;
+  margin-top: 150px;
 }
 
 .headshot img {
   border-radius: 50%;
-  max-width: 150px;
+  max-width: 200px;
 }
