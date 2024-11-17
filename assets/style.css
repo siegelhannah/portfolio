@@ -59,7 +59,7 @@ nav ul li a:hover {
 }
 
 .links ul {
-  list-style: none; /* Remove bullet points */
+  /*list-style: none; /* Remove bullet points */
   padding: 0;
 }
 
