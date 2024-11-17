@@ -11,3 +11,5 @@ header_pages:
   - index.md
   - Projects.md
   - Resume.md
+
+baseurl: "/portfolio" # Adjust if your repo is hosted under a subdirectory like 'portfolio'
