@@ -10,18 +10,24 @@
     <h1>{{ site.title }}</h1>
     <nav>
       <ul>
-        {% for page in site.pages %}
-          {% if page.title %}
-            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/Projects/' | relative_url }}">Projects</a></li>
+        <li><a href="{{ '/Resume/' | relative_url }}">Resume</a></li>
       </ul>
     </nav>
   </header>
   <main>
     {% if page.url == "/" %}
-      <div class="headshot">
-        <img src="{{ '/assets/Github_headshot.jpg' | relative_url }}" alt="Headshot">
+      <div class="home-header">
+        <div class="headshot">
+          <img src="{{ '/assets/Github_headshot.jpg' | relative_url }}" alt="Headshot">
+        </div>
+        <div class="links">
+          <ul>
+            <li><a href="https://github.com/siegelhannah" target="_blank">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/hannah-siegel-219162234/" target="_blank">LinkedIn</a></li>
+          </ul>
+        </div>
       </div>
     {% endif %}
     {{ content }}
