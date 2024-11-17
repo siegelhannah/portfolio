@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 #### Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau
