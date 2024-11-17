@@ -76,3 +76,20 @@ nav ul li a:hover {
 .links ul li a:hover {
   text-decoration: underline; /* Underline on hover */
 }
+
+
+
+.project {
+  clear: both; /* Clears any previous floats */
+  margin-bottom: 20px;
+}
+
+.project-image {
+  float: left; /* Floats the image to the left */
+  margin-right: 20px; /* Adds space between the image and the description */
+}
+
+.project-description {
+  overflow: hidden; /* Clears the float */
+  max-width: 600px; /* Limits the width of the description */
+}
