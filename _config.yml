@@ -1,3 +1,6 @@
+# Use pretty URLs (no .html extension)
+permalink: pretty
+
 title: Hannah Siegel - Data Science Portfolio
 
 logo: /assets/Github_headshot.jpg
