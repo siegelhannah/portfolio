@@ -10,8 +10,7 @@ Hello! My name is Hannah Siegel, and I'm a third-year data science student at th
 
 
 ## Education:
-B.S. in Data Science and Spatial Data Science, Concentration in Geography at the University of Oregon
-(Expected graduation June 2026)
+####B.S. in Data Science and Spatial Data Science, Concentration in Geography at the University of Oregon (Expected graduation June 2026)<br>
 From my coursework, I have experience applying statistical & machine learning techniques to large datasets, including classification and regression, predictively modeling both continuous and categorical variables. I have learned how to fficiently manage large data sets using advanced functions in Python/Pandas, SQL, and other packages for data visualization and analysis. <br><br>
 
 ## Relevant Experience in Data Science:
