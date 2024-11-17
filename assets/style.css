@@ -1,0 +1,50 @@
+/* General Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation Bar Styling */
+nav {
+  background-color: #333; /* Dark background for navbar */
+  color: white;
+  padding: 10px 0; /* Padding around the links */
+  position: sticky;
+  top: 0; /* Makes the navbar stick to the top */
+  width: 100%;
+  z-index: 1000; /* Ensures navbar is always on top */
+}
+
+nav ul {
+  list-style: none; /* Remove bullet points */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Align items in a row */
+  justify-content: center; /* Center the links */
+}
+
+nav ul li {
+  margin: 0 20px; /* Add spacing between links */
+}
+
+nav ul li a {
+  color: white; /* White text for links */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold;
+  font-size: 16px;
+}
+
+nav ul li a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Headshot Styling */
+.headshot {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.headshot img {
+  border-radius: 50%;
+  max-width: 150px;
+}
