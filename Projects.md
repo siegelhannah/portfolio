@@ -20,6 +20,4 @@ This project utilized large spatial datasets of different walkability factors in
 ## Coding projects:
 
 Shown on [My GitHub Profile](https://github.com/siegelhannah)
-
-
-[Back to Home](index.md)
+<br>
