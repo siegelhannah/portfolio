@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Data Science Portfolio
 #### Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau
 
