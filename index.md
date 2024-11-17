@@ -16,7 +16,9 @@ From my coursework, I have experience applying statistical & machine learning te
 ## Relevant Experience in Data Science:
 #### Data Analyst Intern @ Helping Irish Hosts (_July 2024 - August 2024_)
 - Experience in data cleaning, data processing, creating dashboards & visualizations
+
 #### Data Science Learning Assistant @ University of Oregon (_September 2024 - Present_)
 - Experience tutoring/teaching Python, statistics, and data science fundamentals
+
 #### Mobile App Intern @ Phase4 Mobile (_Summers 2019 - 2021_)
 - This first introduced me to analyzing numerical charts/tables/graphs to gain insights about business success/revenue
