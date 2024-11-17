@@ -1,9 +1,10 @@
 /* General Reset */
 body {
+  padding: 0 20px; /* Add 20px padding to the left and right */
   margin: 0;
   font-family: Arial, sans-serif;
-  text-align: center; /* Center-aligns all text on the page */
 }
+
 
 /* Navigation Bar Styling */
 nav {
