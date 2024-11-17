@@ -6,7 +6,7 @@ permalink: /resume/
 
 # My Resume (downloadable)
 
-<a href="{{ '/assets/Resume_Hannah_Siegel.pdf' | relative_url }}">
-    <img src="{{ '/assets/Resume_Hannah_Siegel.jpg' | relative_url }}" alt="Resume" style="width: 300px;">
+<a href="{{ site.baseurl }}/assets/Resume_Hannah_Siegel.pdf">
+    <img src="{{ site.baseurl }}/assets/Resume_Hannah_Siegel.jpg" alt="Resume" style="width: 300px;">
 </a>
 <br>
