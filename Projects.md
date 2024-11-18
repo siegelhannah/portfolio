@@ -6,6 +6,11 @@ permalink: /projects/
 
 # My Projects
 
+## Coding projects:
+
+Shown on [My GitHub Profile](https://github.com/siegelhannah)
+<br>
+
 ## GIS Projects:
 
 - Geospatial Analysis of Walkability in Salem, Oregon (click to view)
@@ -17,8 +22,4 @@ permalink: /projects/
 
 This project utilized large spatial datasets of different walkability factors in Salem, and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable map of city planning recommendations.
 
-
-## Coding projects:
-
-Shown on [My GitHub Profile](https://github.com/siegelhannah)
 <br>
