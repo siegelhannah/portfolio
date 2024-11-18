@@ -14,11 +14,11 @@ Hello! My name is Hannah Siegel, and I'm a third-year data science student at th
 From my coursework, I have experience applying statistical & machine learning techniques to large datasets, including classification and regression, and predictively modeling both continuous and categorical variables. I have learned how to efficiently manage large data sets using advanced functions in Python/Pandas, SQL, and other packages for data visualization and analysis. <br><br>
 
 ## Relevant Experience in Data Science:
-##### Data Analyst Intern @ Helping Irish Hosts (_July 2024 - August 2024_)<br>
+##### Data Analyst Intern @ Helping Irish Hosts<br>
 Experience in data cleaning, data processing, creating dashboards & visualizations
 
-##### Data Science Learning Assistant @ University of Oregon (_September 2024 - Present_)<br>
+##### Data Science Learning Assistant @ University of Oregon<br>
 Experience tutoring/teaching Python, statistics, and data science fundamentals
 
-##### Mobile App Intern @ Phase4 Mobile (_Summers 2019 - 2021_)<br>
+##### Mobile App Intern @ Phase4 Mobile<br>
 This first introduced me to analyzing numerical charts/tables/graphs to gain insights about business success/revenue
