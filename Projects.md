@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## GIS Projects:
 
-- Geospatial Analysis of Walkability in Salem, Oregon
+- Geospatial Analysis of Walkability in Salem, Oregon (click to view)
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 300px;">
