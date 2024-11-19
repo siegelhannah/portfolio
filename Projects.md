@@ -8,8 +8,7 @@ permalink: /projects/
 
 ## Coding projects:
 
-Visit [My GitHub Profile](https://github.com/siegelhannah)<br>
-To see my projects on predictive analysis, classification algorithms, sentiment analysis and more.
+Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis and more.
 <br>
 
 ## GIS Projects:
