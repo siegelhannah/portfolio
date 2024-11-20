@@ -13,7 +13,7 @@ Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on
 
 ## GIS Projects:
 
-### - Geospatial Analysis of Walkability in Salem, Oregon (click to view):
+### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
 This project utilized large spatial datasets of different walkability factors in Salem, and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable map of city planning recommendations.
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
@@ -21,7 +21,7 @@ This project utilized large spatial datasets of different walkability factors in
 </a>
 <br>
 
-### - More maps made for Salem, Oregon school accessibility analysis (click to view):
+### More maps made for Salem, Oregon school accessibility analysis (click to view):
 
 <a href="{{ site.baseurl }}/assets/Layout2.pdf">
     <img src="{{ site.baseurl }}/assets/Layout2_page-0001.jpg" alt="Project 2 Image" style="width: 300px; border: 1px solid black; display: inline-block; margin-right: 10px;">
