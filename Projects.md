@@ -9,7 +9,7 @@ permalink: /projects/
 ## Coding projects:
 
 Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis and more.
-<br>
+<br><br><br>
 
 ## GIS Projects:
 
@@ -26,11 +26,11 @@ This project utilized large spatial datasets of different walkability factors in
 <a href="{{ site.baseurl }}/assets/Layout2.pdf">
     <img src="{{ site.baseurl }}/assets/Layout2_page-0001.jpg" alt="Project 2 Image" style="width: 300px; border: 1px solid black;">
 </a>
-<br><br><br>
+<br><br>
 <a href="{{ site.baseurl }}/assets/Layout1.pdf">
     <img src="{{ site.baseurl }}/assets/Layout1_page-0001.jpg" alt="Project 3 Image" style="width: 300px; border: 1px solid black;">
 </a>
-<br><br><br>
+<br><br>
 <a href="{{ site.baseurl }}/assets/Layout3.pdf">
     <img src="{{ site.baseurl }}/assets/Layout3.jpg" alt="Project 4 Image" style="width: 300px; border: 1px solid black;">
 </a>
