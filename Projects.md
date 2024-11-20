@@ -24,14 +24,14 @@ This project utilized large spatial datasets of different walkability factors in
 - More maps made for Salem, Oregon school accessibility analysis (click to view):
 
 <a href="{{ site.baseurl }}/assets/Layout2.pdf">
-    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 2 Image" style="width: 300px;">
+    <img src="{{ site.baseurl }}/assets/Layout2_page-0001.jpg" alt="Project 2 Image" style="width: 300px;">
 </a>
 <br>
-<a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
-    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 3 Image" style="width: 300px;">
+<a href="{{ site.baseurl }}/assets/Layout1.pdf">
+    <img src="{{ site.baseurl }}/assets/Layout1_page-0001.jpg" alt="Project 3 Image" style="width: 300px;">
 </a>
 <br>
-<a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
-    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 4 Image" style="width: 300px;">
+<a href="{{ site.baseurl }}/assets/Layout3.pdf">
+    <img src="{{ site.baseurl }}/assets/Layout3.jpg" alt="Project 4 Image" style="width: 300px;">
 </a>
 <br>
