@@ -3,7 +3,6 @@ layout: default
 title: Home
 permalink: /
 ---
-<br>
 
 <div style="background-color: #add8e6; padding: 10px; border-radius: 8px;">
     <h4>Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau</h4>
