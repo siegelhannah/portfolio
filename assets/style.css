@@ -49,11 +49,12 @@ nav ul li a:hover {
 
 .headshot {
   margin-right: 30px; /* Space between the profile image and the text */
+  margin-bottom: 20px;
 }
 
 .headshot img {
-  width: 250px; /* Set the width */
-  height: 250px; /* Set the height to make it square */
+  width: 300px; /* Set the width */
+  height: 300px; /* Set the height to make it square */
   border-radius: 10px; /* Optional: give a slight rounded corner to the headshot */
   object-fit: cover; /* Ensure the image fits well within the square */
 }
