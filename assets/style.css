@@ -45,15 +45,11 @@ nav ul li a:hover {
   align-items: flex-start; /* Align items to the top */
   justify-content: flex-start; /* Left-align the items */
   margin-top: 30px; /* Adjust the top margin */
-  flex-wrap: wrap; /* Allow items to wrap on small screens */
-  width: 100%; /* Ensure it takes up the full width */
 }
 
 /* Headshot Styling */
 .headshot {
   margin-right: 30px; /* Space between the profile image and the text */
-  flex-shrink: 0; /* Prevent image from shrinking */
-  width: 250px; /* Fixed width for the profile image */
 }
 
 .headshot img {
@@ -69,8 +65,6 @@ nav ul li a:hover {
   display: flex;
   flex-direction: column; /* Stack the text and links vertically */
   justify-content: flex-start; /* Align the content to the top */
-  flex-grow: 1; /* Allow the text block to take up available space */
-  width: 100%; /* Ensure it takes up the remaining width */
 }
 
 /* Links Styling */
@@ -78,7 +72,7 @@ nav ul li a:hover {
   list-style: none; /* Remove bullet points */
   padding: 0;
   display: flex; /* Align links in a row */
-  justify-content: flex-start; /* Left-align the links */
+  justify-content: start; /* Left-align the links */
   margin: 0;
 }
 
