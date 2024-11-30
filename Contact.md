@@ -11,11 +11,11 @@ permalink: /contact/
 <h3 style="text-align: center;">
   Send me a message on 
   <span style="background-color: #add8e6; padding: 5px; border-radius: 5px;">
-    <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" style="text-decoration: none; color: black;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" style="text-decoration: none; color: black;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">LinkedIn</a>
   </span> 
   or an email at 
   <span style="background-color: #add8e6; padding: 5px; border-radius: 5px;">
-    <a href="mailto:hannahsiegel87@gmail.com" style="text-decoration: none; color: black;">hannahsiegel87@gmail.com</a>
+    <a href="mailto:hannahsiegel87@gmail.com" style="text-decoration: none; color: black;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">hannahsiegel87@gmail.com</a>
   </span>!
 </h3>
 
