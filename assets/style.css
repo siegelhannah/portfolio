@@ -113,15 +113,16 @@ nav ul li a:hover {
 }
 
 .github-link a {
-  color: #000; /* Black text for the link */
-  text-decoration: none; /* Remove underline */
+  color: #000; /* Ensures the link text is black */
+  text-decoration: none; /* Removes the underline */
   font-weight: bold;
-  padding: 10px 20px;
-  border-radius: 8px;
-  background-color: #add8e6; /* Light blue background for the link */
+  padding: 5px 10px; /* Smaller padding to make the blue box tighter around the text */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #add8e6; /* Light blue background */
 }
 
 .github-link a:hover {
-  text-decoration: underline; /* Underline the link on hover */
+  text-decoration: underline; /* Underline on hover */
 }
+
 
