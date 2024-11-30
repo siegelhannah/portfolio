@@ -1,1 +1,1 @@
-Repository for my personal portfolio website hosted on GitHub.
+View my personal website at https://siegelhannah.github.io/portfolio/
