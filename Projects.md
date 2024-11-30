@@ -32,6 +32,9 @@ This project utilized large spatial datasets of different walkability factors in
 <a href="{{ site.baseurl }}/assets/Layout3.pdf">
     <img src="{{ site.baseurl }}/assets/Layout3.jpg" alt="Project 4 Image" style="width: 300px; border: 1px solid black; display: inline-block; margin-right: 10px;">
 </a>
+
+[GitHub Repository for ArcGIS Pro Layer Files](https://github.com/siegelhannah/Salem-Walkability)
+
 <br>
 
 ### StoryMap Analysis of Urban Heat Islands & Heat Severity
