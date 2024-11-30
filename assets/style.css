@@ -50,6 +50,7 @@ nav ul li a:hover {
 /* Headshot Styling */
 .headshot {
   margin-right: 30px; /* Space between the profile image and the text */
+  margin-bottom: 20px;
 }
 
 .headshot img {
