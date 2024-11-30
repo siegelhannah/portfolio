@@ -10,6 +10,8 @@ permalink: /projects/
   Coding Projects
 </h2>
 
+<br><br>
+
 <p>
   Visit 
   <span class="github-link">
