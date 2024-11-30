@@ -42,13 +42,14 @@ nav ul li a:hover {
 /* Home Page Header Styling */
 .home-header {
   display: flex;
-  align-items: center; /* Vertically center the headshot and links */
-  justify-content: flex-start; /* Left-align the items */
+  flex-direction: column; /* Stack the profile image and links vertically */
+  align-items: center; /* Center-align both the profile image and the links */
+  justify-content: center; /* Optional: to center the content vertically */
   margin-top: 30px; /* Adjust the top margin */
 }
 
 .headshot {
-  margin-right: 30px; /* Add some space between headshot and links */
+  margin-bottom: 20px; /* Space between profile image and links */
 }
 
 .headshot img {
@@ -59,18 +60,24 @@ nav ul li a:hover {
 }
 
 .links ul {
-  /*list-style: none; /* Remove bullet points */
+  list-style: none; /* Remove bullet points */
   padding: 0;
+  display: flex; /* Align links in a row */
+  justify-content: center; /* Center-align the links */
+  margin: 0;
 }
 
 .links ul li {
-  margin-bottom: 10px; /* Add space between each link */
+  margin: 5px 15px; /* Add space between the links */
 }
 
 .links ul li a {
-  color: #00008B; /* Dark blue color */
-  text-decoration: none;
+  color: #000; /* Black text for links */
+  text-decoration: none; /* Remove underline */
   font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #add8e6; /* Light blue background */
 }
 
 .links ul li a:hover {
