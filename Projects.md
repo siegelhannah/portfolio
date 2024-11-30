@@ -4,14 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-# My Projects
+# <div style="text-align: center;">My Projects</div>
 
-## Coding projects:
+## <div style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center;">Coding Projects</div>
 
 Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis and more.
 <br><br><br>
 
-## GIS Projects:
+## <div style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center;">GIS Projects</div>
 
 ### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
 
