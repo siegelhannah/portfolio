@@ -4,16 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 style="text-align: center;">My Projects</h1>
-
-<h2 style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center; max-width: 600px; margin: 0 auto;">Coding Projects</h2>
+<h1 style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center; max-width: 600px; margin: 0 auto;">Coding Projects</h2>
 
 Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
 <br><br><br>
 
-<h2 style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center; max-width: 600px; margin: 0 auto;">GIS Projects</h2>
+<h1 style="background-color: #add8e6; padding: 15px; border-radius: 8px; text-align: center; max-width: 600px; margin: 0 auto;">GIS Projects</h2>
 
-### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
+## Geospatial Analysis of Walkability in Salem, Oregon (click to view):
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 300px; border: 1px solid black;">
@@ -25,7 +23,7 @@ This project utilized large spatial datasets of different walkability factors in
 
 <br>
 
-### More maps made for Salem, Oregon school accessibility analysis (click to view):
+## More maps made for Salem, Oregon school accessibility analysis (click to view):
 
 <a href="{{ site.baseurl }}/assets/Layout2.pdf">
     <img src="{{ site.baseurl }}/assets/Layout2_page-0001.jpg" alt="Project 2 Image" style="width: 200px; border: 1px solid black; display: inline-block; margin-right: 10px;">
@@ -39,7 +37,7 @@ This project utilized large spatial datasets of different walkability factors in
 
 <br>
 
-### StoryMap Analysis of Urban Heat Islands & Heat Severity (click to view the full StoryMap):
+## StoryMap Analysis of Urban Heat Islands & Heat Severity (click to view the full StoryMap):
 
 <a href="https://storymaps.arcgis.com/stories/3404180deb1c4478bef3eb87f87327ff" target="_blank">
     <img src="{{ site.baseurl }}/assets/storymapScreenshot.jpg" alt="StoryMap Thumbnail" style="width: 500px; border: 1px solid black;">
