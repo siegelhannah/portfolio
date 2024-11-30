@@ -77,3 +77,20 @@ nav ul li a:hover {
   text-decoration: underline; /* Underline on hover */
 }
 
+/* Styling for Contact Page Links */
+.contact-link {
+  display: inline-block;
+  background-color: #add8e6; /* Light blue background */
+  padding: 5px; /* Padding around the text */
+  border-radius: 5px; /* Rounded corners */
+  text-decoration: none; /* Remove underline */
+  color: black; /* Text color */
+}
+
+.contact-link:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.contact-link:focus {
+  outline: none; /* Remove focus outline if you want to customize it later */
+}
