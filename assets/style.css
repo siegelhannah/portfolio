@@ -42,14 +42,13 @@ nav ul li a:hover {
 /* Home Page Header Styling */
 .home-header {
   display: flex;
-  flex-direction: column; /* Stack the profile image and links vertically */
-  align-items: center; /* Center-align both the profile image and the links */
-  justify-content: center; /* Optional: to center the content vertically */
+  align-items: flex-start; /* Align items to the top */
+  justify-content: flex-start; /* Left-align the items */
   margin-top: 30px; /* Adjust the top margin */
 }
 
 .headshot {
-  margin-bottom: 20px; /* Space between profile image and links */
+  margin-right: 30px; /* Space between the profile image and the text */
 }
 
 .headshot img {
@@ -59,11 +58,17 @@ nav ul li a:hover {
   object-fit: cover; /* Ensure the image fits well within the square */
 }
 
+.text-and-links {
+  display: flex;
+  flex-direction: column; /* Stack the text and links vertically */
+  justify-content: flex-start; /* Align the content to the top */
+}
+
 .links ul {
   list-style: none; /* Remove bullet points */
   padding: 0;
   display: flex; /* Align links in a row */
-  justify-content: center; /* Center-align the links */
+  justify-content: start; /* Left-align the links */
   margin: 0;
 }
 
