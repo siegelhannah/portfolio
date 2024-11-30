@@ -10,8 +10,6 @@ permalink: /projects/
   Coding Projects
 </h2>
 
-<br><br>
-
 <p>
   Visit 
   <span class="github-link">
@@ -21,6 +19,8 @@ permalink: /projects/
   </span> 
   to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
 </p>
+
+<br><br>
 
 <h2 style="background-color: #94C79D; padding: 10px; text-align: left; margin: 0; display: inline-block;">
   GIS Projects
