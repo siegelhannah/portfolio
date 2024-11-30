@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<div style="background-color: #94C79D; padding: 10px; display: inline-block; max-width: 100%; margin: 0 auto;">
+<div style="background-color: #94C79D; padding: 8px; display: block; max-width: 100%; margin: 0;">
     <h3>Top Technical Skills: Python, C, R, Spatial Analysis Software (ArcGIS, QGIS), SQL, Excel/Tableau</h3>
 </div>
 
