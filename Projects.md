@@ -19,6 +19,9 @@ This project utilized large spatial datasets of different walkability factors in
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 300px; border: 1px solid black;">
 </a>
+
+[GitHub Repository for ArcGIS Pro Layer Files](https://github.com/siegelhannah/Salem-Walkability)
+
 <br>
 
 ### More maps made for Salem, Oregon school accessibility analysis (click to view):
@@ -32,8 +35,6 @@ This project utilized large spatial datasets of different walkability factors in
 <a href="{{ site.baseurl }}/assets/Layout3.pdf">
     <img src="{{ site.baseurl }}/assets/Layout3.jpg" alt="Project 4 Image" style="width: 300px; border: 1px solid black; display: inline-block; margin-right: 10px;">
 </a>
-
-[GitHub Repository for ArcGIS Pro Layer Files](https://github.com/siegelhannah/Salem-Walkability)
 
 <br>
 
