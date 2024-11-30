@@ -4,9 +4,12 @@ title: Resume
 permalink: /resume/
 ---
 
-# My Resume (downloadable)
+<h1 style="text-align: center;">My Resume (downloadable)</h1>
 
-<a href="{{ site.baseurl }}/assets/Resume Nov 2024.pdf">
-    <img src="{{ site.baseurl }}/assets/Resume Nov 2024.jpg" alt="Resume" style="width: 300px;">
-</a>
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/assets/Resume Nov 2024.pdf">
+        <img src="{{ site.baseurl }}/assets/Resume Nov 2024.jpg" alt="Resume" style="width: 300px;">
+    </a>
+</div>
+
 <br>
