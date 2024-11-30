@@ -116,3 +116,17 @@ nav ul li a:hover {
 .contact-link:focus {
   outline: none; /* Remove focus outline if you want to customize it later */
 }
+
+.github-link a {
+  color: #000; /* Black text for the link */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #add8e6; /* Light blue background for the link */
+}
+
+.github-link a:hover {
+  text-decoration: underline; /* Underline the link on hover */
+}
+
