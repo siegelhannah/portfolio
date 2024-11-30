@@ -37,8 +37,11 @@ This project utilized large spatial datasets of different walkability factors in
 
 <br>
 
-### StoryMap Analysis of Urban Heat Islands & Heat Severity
+### StoryMap Analysis of Urban Heat Islands & Heat Severity (click to view):
 
+<a href="https://storymaps.arcgis.com/stories/3404180deb1c4478bef3eb87f87327ff" target="_blank">
+    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="StoryMap Thumbnail" style="width: 300px; border: 1px solid black;">
+</a>
+<p>Click the image to view the full StoryMap on walkability in Salem, Oregon.</p>
 
-
-
+<br>
