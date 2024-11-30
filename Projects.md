@@ -6,12 +6,12 @@ permalink: /projects/
 
 <h1 style="text-align: center;">My DSCI and GIS Projects</h1>
 
-<h2 style="background-color: #add8e6; padding: 10px; text-align: left; max-width: 600px; margin: 0 auto;">Coding Projects</h2>
+<h2 style="background-color: #add8e6; padding: 10px; text-align: left; max-width: 600px; margin: 0;">Coding Projects</h2>
 
 Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
 <br><br><br>
 
-<h2 style="background-color: #add8e6; padding: 10px; text-align: left; max-width: 600px; margin: 0 auto;">GIS Projects</h2>
+<h2 style="background-color: #add8e6; padding: 10px; text-align: left; max-width: 600px; margin: 0;">GIS Projects</h2>
 
 ### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
 
