@@ -6,14 +6,14 @@ permalink: /projects/
 
 <h1 style="text-align: center;">My DSCI and GIS Projects</h1>
 
-<h2 style="background-color: #add8e6; padding: 10px; text-align: left; margin: 0; display: inline-block;">
+<h2 style="background-color: #94C79D; padding: 10px; text-align: left; margin: 0; display: inline-block;">
   Coding Projects
 </h2>
 
 Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
 <br><br><br>
 
-<h2 style="background-color: #add8e6; padding: 10px; text-align: left; margin: 0; display: inline-block;">
+<h2 style="background-color: #94C79D; padding: 10px; text-align: left; margin: 0; display: inline-block;">
   GIS Projects
 </h2>
 
