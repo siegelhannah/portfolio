@@ -4,6 +4,12 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <style>
+    /* Add hover effect for links */
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -24,9 +30,17 @@
           <img src="{{ '/assets/Github_headshot.jpg' | relative_url }}" alt="Headshot">
         </div>
         <div class="links">
-          <ul>
-            <li><a href="https://github.com/siegelhannah" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; text-decoration: none; color: #000;">My GitHub (for projects)</a></li>
-            <li><a href="https://www.linkedin.com/in/hannah-siegel-219162234/" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; text-decoration: none; color: #000;">My LinkedIn</a></li>
+          <ul style="list-style-type: none; padding-left: 0;">
+            <li>
+              <a href="https://github.com/siegelhannah" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; text-decoration: none; color: #000;">
+                My GitHub (for coding projects)
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; text-decoration: none; color: #000;">
+                My LinkedIn
+              </a>
+            </li>
           </ul>
         </div>
       </div>
