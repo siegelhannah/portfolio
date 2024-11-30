@@ -4,11 +4,11 @@ title: Home
 permalink: /
 ---
 
-<div style="background-color: #add8e6; padding: 20px; border-radius: 8px;">
+<div style="background-color: #add8e6; padding: 15px; border-radius: 8px;">
     <h4>Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau</h4>
     <p>Hello! My name is Hannah Siegel, and I'm a third-year data science student at the University of Oregon. My interests lie in using data analysis techniques to tackle larger, spatial/geographic issues. Within my degree, I have a concentration in geography, which has not only given me practice with cleaning, analyzing and interpreting large datasets, but also with geospatial software and data visualization across location and space. I'm especially excited in diving into topics concerning <strong>our environment</strong>, <strong>sustainability</strong>, and <strong>climate change</strong>.</p>
 </div>
-<br><br>
+<br>
 
 
 ## Education:
