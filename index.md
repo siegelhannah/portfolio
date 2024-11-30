@@ -4,10 +4,9 @@ title: Home
 permalink: /
 ---
 
-<div style="background-color: #94C79D; padding: 10px;">
-    <h3>Top Technical Skills: Python, C, GIS & Spatial Analysis Software, SQL, Excel/Tableau</h3>
+<div style="background-color: #94C79D; padding: 10px; display: inline-block; max-width: 100%; margin: 0 auto;">
+    <h3>Top Technical Skills: Python, C, R, Spatial Analysis Software (ArcGIS, QGIS), SQL, Excel/Tableau</h3>
 </div>
-
 
 ## Education:
 #### B.S. in Data Science and Spatial Data Science, Concentration in Geography at the University of Oregon (Expected graduation June 2026)<br>
