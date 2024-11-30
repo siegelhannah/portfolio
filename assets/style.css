@@ -9,7 +9,7 @@ body {
 nav {
   background-color: #0c4c30; /* Dark green background for navbar */
   color: white;
-  padding: 20px 0; /* Padding around the links */
+  padding: 15px 0; /* Padding around the links */
   position: sticky;
   top: 0; /* Makes the navbar stick to the top */
   width: 100%;
