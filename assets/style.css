@@ -96,52 +96,6 @@ nav ul li a:hover {
   text-decoration: underline; /* Underline on hover */
 }
 
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-  /* Adjust home-header for mobile devices */
-  .home-header {
-    flex-direction: column; /* Stack the headshot and text block vertically */
-    align-items: center; /* Center-align the content */
-    text-align: center; /* Center the text */
-  }
-
-  /* Adjust the headshot image size */
-  .headshot img {
-    width: 80%; /* Reduce the width on mobile */
-    max-width: 200px; /* Ensure it's not too large */
-  }
-
-  /* Adjust the text block */
-  .text-and-links {
-    margin-top: 20px;
-    width: 100%; /* Ensure the text block takes full width on small screens */
-  }
-
-  /* Adjust the font size for smaller screens */
-  h1 {
-    font-size: 1.8rem; /* Slightly smaller heading on mobile */
-  }
-
-  p {
-    font-size: 1rem; /* Adjust paragraph font size */
-  }
-
-  /* Stack links vertically on small screens */
-  .links ul {
-    flex-direction: column; /* Stack the links vertically */
-    align-items: center; /* Center the links */
-  }
-
-  .links ul li {
-    margin: 5px 0; /* Reduce margin between links */
-  }
-
-  .links ul li a {
-    font-size: 0.9rem; /* Reduce font size for mobile */
-  }
-}
-
-
 /* Styling for Contact Page Links */
 .contact-link {
   display: inline-block;
