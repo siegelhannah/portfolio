@@ -9,6 +9,56 @@
     a:hover {
       text-decoration: underline;
     }
+
+    /* Home Page Header Styling */
+    .home-header {
+      display: flex;
+      align-items: flex-start; /* Align items to the top */
+      justify-content: flex-start; /* Left-align the items */
+      margin-top: 30px; /* Adjust the top margin */
+    }
+
+    .headshot {
+      margin-right: 30px; /* Space between the profile image and the text */
+    }
+
+    .headshot img {
+      width: 250px; /* Set the width */
+      height: 250px; /* Set the height to make it square */
+      border-radius: 10px; /* Optional: give a slight rounded corner to the headshot */
+      object-fit: cover; /* Ensure the image fits well within the square */
+    }
+
+    .text-and-links {
+      display: flex;
+      flex-direction: column; /* Stack the text and links vertically */
+      justify-content: flex-start; /* Align the content to the top */
+    }
+
+    .links ul {
+      list-style: none; /* Remove bullet points */
+      padding: 0;
+      display: flex; /* Align links in a row */
+      justify-content: start; /* Left-align the links */
+      margin: 0;
+    }
+
+    .links ul li {
+      margin: 5px 15px; /* Add space between the links */
+    }
+
+    .links ul li a {
+      color: #000; /* Black text for links */
+      text-decoration: none; /* Remove underline */
+      font-weight: bold;
+      padding: 10px 20px;
+      border-radius: 8px;
+      background-color: #add8e6; /* Light blue background */
+    }
+
+    .links ul li a:hover {
+      text-decoration: underline; /* Underline on hover */
+    }
   </style>
 </head>
 <body>
@@ -29,19 +79,26 @@
         <div class="headshot">
           <img src="{{ '/assets/Github_headshot.jpg' | relative_url }}" alt="Headshot">
         </div>
-        <div class="links">
-          <ul style="list-style-type: none; padding-left: 0;">
-            <li>
-              <a href="https://github.com/siegelhannah" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; color: #000;">
-                My GitHub (for coding projects)
-              </a>
-            </li>
-            <li>
-              <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" target="_blank" style="display: inline-block; background-color: #add8e6; padding: 10px 20px; border-radius: 8px; color: #000;">
-                My LinkedIn
-              </a>
-            </li>
-          </ul>
+        <div class="text-and-links">
+          <!-- Text block to the right of the headshot -->
+          <p>
+            Hello! My name is Hannah Siegel, and I'm a third-year data science student at the University of Oregon. My interests lie in using data analysis techniques to tackle larger, spatial/geographic issues. Within my degree, I have a concentration in geography, which has not only given me practice with cleaning, analyzing and interpreting large datasets, but also with geospatial software and data visualization across location and space. I'm especially excited in diving into topics concerning <strong>our environment</strong>, <strong>sustainability</strong>, and <strong>climate change</strong>.
+          </p>
+          <!-- Links below the text block -->
+          <div class="links">
+            <ul>
+              <li>
+                <a href="https://github.com/siegelhannah" target="_blank">
+                  My GitHub (for coding projects)
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" target="_blank">
+                  My LinkedIn
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     {% endif %}
