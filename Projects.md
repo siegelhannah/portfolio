@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 text-align: center;">My DSCI and GIS Projects</h1>
+<h1 style=text-align: center;">My DSCI and GIS Projects</h1>
 
 <h2 style="background-color: #add8e6; padding: 10px; text-align: left; max-width: 600px; margin: 0 auto;">Coding Projects</h2>
 
