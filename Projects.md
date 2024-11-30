@@ -14,19 +14,12 @@ Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on
 ## GIS Projects:
 
 ### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
+This project utilized large spatial datasets of different walkability factors in Salem, and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable map of city planning recommendations.
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-    <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
-        <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" 
-             alt="Project 1 Image" 
-             style="width: 300px; border: 1px solid black;">
-    </a>
-    <p>
-        This project utilized large spatial datasets of different walkability factors in Salem, 
-        and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable 
-        map of city planning recommendations.
-    </p>
-</div>
+<a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
+    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 300px; border: 1px solid black;">
+</a>
+<br>
 
 ### More maps made for Salem, Oregon school accessibility analysis (click to view):
 
@@ -39,4 +32,10 @@ Visit [my GitHub profile](https://github.com/siegelhannah) to see my projects on
 <a href="{{ site.baseurl }}/assets/Layout3.pdf">
     <img src="{{ site.baseurl }}/assets/Layout3.jpg" alt="Project 4 Image" style="width: 300px; border: 1px solid black; display: inline-block; margin-right: 10px;">
 </a>
+<br>
+
+### StoryMap Analysis of Urban Heat Islands & Heat Severity
+
+
+
 
