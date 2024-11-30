@@ -8,6 +8,8 @@ permalink: /
     <h3>Top Technical Skills: Python, C, R, Spatial Analysis Software (ArcGIS, QGIS), SQL, Excel/Tableau</h3>
 </div>
 
+<br>
+
 ## Education:
 #### B.S. in Data Science and Spatial Data Science, Concentration in Geography at the University of Oregon (Expected graduation June 2026)<br>
 From my coursework, I have experience applying statistical & machine learning techniques to large datasets, including classification and regression, and predictively modeling both continuous and categorical variables. I have learned how to efficiently manage large data sets using advanced functions in Python/Pandas, SQL, and other packages for data visualization and analysis. <br><br>
