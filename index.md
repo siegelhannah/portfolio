@@ -22,4 +22,4 @@ Experience in data cleaning, data processing, creating dashboards & visualizatio
 Experience tutoring/teaching Python, statistics, and data science fundamentals
 
 ##### Mobile App Intern @ Phase4 Mobile<br>
-This first introduced me to analyzing numerical charts/tables/graphs to gain insights about business success/revenue
+Experience analyzing data from numerical charts/tables/graphs to gain insights about business success/revenue
