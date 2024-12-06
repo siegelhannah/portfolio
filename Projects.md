@@ -20,6 +20,12 @@ permalink: /projects/
   to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
 </p>
 
+<br>
+
+Notable project mention: [Sustanability and Energy Usage](https://github.com/siegelhannah/Energy-Use-Sustainability)
+- a self-led personal project analyzing energy production and consumption data across countries for sustainability insights.
+
+
 <br><br>
 
 <h2 style="background-color: #94C79D; padding: 10px; text-align: left; margin: 0; display: inline-block;">
