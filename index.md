@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="background-color: #94C79D; padding: 5px; display: block; max-width: 100%; margin: 0;">
-    <h3>Top Technical Skills: Python, C, R, Spatial Analysis Software (ArcGIS, QGIS), SQL, Excel/Tableau</h3>
+    <h3>Top Technical Skills: Python, C, Spatial Analysis Software (ArcGIS, QGIS), R, SQL, Excel/Tableau</h3>
 </div>
 
 <br>
