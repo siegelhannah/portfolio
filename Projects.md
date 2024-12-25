@@ -17,7 +17,7 @@ permalink: /projects/
       My GitHub profile
     </a>
   </span> 
-  to see my projects on predictive analysis, classification algorithms, sentiment analysis, and more.
+  to see my projects on **predictive analytics**, **classification algorithms**, **sentiment analysis**, and more.
 </p>
 
 Notable project mention: [Sustanability and Energy Usage](https://github.com/siegelhannah/Energy-Use-Sustainability)
@@ -36,7 +36,7 @@ Notable project mention: [Sustanability and Energy Usage](https://github.com/sie
     <img src="{{ site.baseurl }}/assets/classifications.jpg" alt="Eagle Creek Classification Map" style="width: 300px; border: 1px solid black;">
 </a><br>
 
-This project used supervised classification models and remote sensing techniques (band composites, NDVI change detection) to analyze satellite imagery, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth were used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
+This project used **supervised classification models** and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth** were used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
 
 [LANDSAT 8 files, ArcGIS/QGIS layer files, and deliverable map layouts available in my GitHub repository](https://github.com/siegelhannah/Salem-Walkability)
 
@@ -48,7 +48,7 @@ This project used supervised classification models and remote sensing techniques
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Salem Walkability Map" style="width: 300px; border: 1px solid black;">
 </a><br>
 
-This project utilized large spatial datasets of different walkability factors in Salem, and involved data cleaning, joining, and analysis using ArcGIS Pro to create a deliverable map of city planning recommendations.
+This project utilized large spatial datasets of different walkability factors in Salem, and involved **data cleaning, joining, and analysis** using **ArcGIS Pro** to create a deliverable map of city planning recommendations.
 
 [Layer Files Available in my GitHub Repository](https://github.com/siegelhannah/Salem-Walkability)
 
