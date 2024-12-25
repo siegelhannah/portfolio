@@ -30,6 +30,18 @@ Notable project mention: [Sustanability and Energy Usage](https://github.com/sie
   GIS Projects
 </h2>
 
+### Remote Sensing Analysis of Post-Fire Vegetation and Land Cover - Eagle Creek Fire (click to view):
+
+<a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
+    <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Project 1 Image" style="width: 300px; border: 1px solid black;">
+</a><br>
+
+This project used supervised classification models and remote sensing techniques (band composites, NDVI change detection) to analyze satellite imagery, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth were used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
+
+[LANDSAT 8 files, ArcGIS/QGIS layer files, and deliverable map layouts available in my GitHub repository](https://github.com/siegelhannah/Salem-Walkability)
+
+<br>
+
 ### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
