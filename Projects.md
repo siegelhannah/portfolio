@@ -24,7 +24,9 @@ permalink: /projects/
 
 ### Notable project mention: Sustainability and Energy Usage Data Analytics [(View on my GitHub)](https://github.com/siegelhannah/Energy-Use-Sustainability)
 
-images ! <br>
+<img src="{{ site.baseurl }}/assets/Sustainability-ipynb-plot" alt="CO2 scatterplot" style="width: 300px; border: 1px solid black;">
+<br>
+
 This project analyzes energy production and consumption data across countries to obtain sustainability insights (for example, the amount of CO2 emissions of each country versus their energy sources, wealth, and other factors).
 <br>
 It includes **data cleaning/preprocessing, exploratory data analysis, hypothesis testing and confidence evaluation, subset selection, hyperparameter tuning, and k-fold cross validation** of many different predictive models (both quantitative/continuous prediction and categorical classification).
