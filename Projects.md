@@ -17,7 +17,7 @@ permalink: /projects/
       My GitHub profile
     </a>
   </span> 
-  to see my projects on **predictive analytics**, **classification algorithms**, **sentiment analysis**, and more.
+  to see my projects on predictive analytics, classification algorithms, sentiment analysis, and more.
 </p>
 
 Notable project mention: [Sustanability and Energy Usage](https://github.com/siegelhannah/Energy-Use-Sustainability)
