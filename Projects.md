@@ -30,7 +30,7 @@ Notable project mention: [Sustanability and Energy Usage](https://github.com/sie
   GIS Projects
 </h2>
 
-### Remote Sensing Analysis of Post-Fire Vegetation and Land Cover - Eagle Creek Fire (click to view):
+### Remote Sensing Analysis of Post-Fire Vegetation and Land Cover - Eagle Creek Fire (click map to view):
 
 <a href="{{ site.baseurl }}/assets/Eagle_Creek_Project.pdf">
     <img src="{{ site.baseurl }}/assets/classifications.jpg" alt="Eagle Creek Classification Map" style="width: 300px; border: 1px solid black;">
@@ -42,7 +42,7 @@ This project used **supervised classification models** and **remote sensing tech
 
 <br>
 
-### Geospatial Analysis of Walkability in Salem, Oregon (click to view):
+### Geospatial Analysis of Walkability in Salem, Oregon (click map to view):
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Salem Walkability Map" style="width: 300px; border: 1px solid black;">
@@ -54,7 +54,7 @@ This project utilized large spatial datasets of different walkability factors in
 
 <br>
 
-### More maps made for Salem, Oregon school accessibility analysis (click to view):
+### More maps made for Salem, Oregon school accessibility analysis (click maps to view):
 
 <a href="{{ site.baseurl }}/assets/Layout2.pdf">
     <img src="{{ site.baseurl }}/assets/Layout2_page-0001.jpg" alt="Map" style="width: 200px; border: 1px solid black; display: inline-block; margin-right: 10px;">
