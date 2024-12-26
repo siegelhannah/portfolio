@@ -30,7 +30,7 @@ Notable project mention: [Sustanability and Energy Usage](https://github.com/sie
   GIS Projects
 </h2>
 
-### Remote Sensing Analysis of Post-Fire Vegetation and Land Cover - Eagle Creek Fire (click map to view):
+### Remote Sensing Analysis of Vegetation Burning and Regrowth - Eagle Creek Fire (click map to view):
 
 <a href="{{ site.baseurl }}/assets/Eagle_Creek_Project.pdf">
     <img src="{{ site.baseurl }}/assets/classifications.jpg" alt="Eagle Creek Classification Map" style="width: 300px; border: 1px solid black;">
