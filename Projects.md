@@ -20,8 +20,12 @@ permalink: /projects/
   to see my projects on predictive analytics, classification algorithms, sentiment analysis, and more.
 </p>
 
-Notable project mention: [Sustanability and Energy Usage](https://github.com/siegelhannah/Energy-Use-Sustainability)
-- a self-led personal project analyzing energy production and consumption data across countries for sustainability insights.
+<br>
+
+### Notable project mention: Sustainability and Energy Usage Data Analytics [(View on my GitHub)](https://github.com/siegelhannah/Energy-Use-Sustainability)
+
+- images !
+This self-led personal project analyzes energy production and consumption data across countries to obtain sustainability insights related to CO2 emissions, energy acquisition, and country wealth. It includes **data cleaning/preprocessing, exploratory data analysis, hypothesis testing and confidence evaluation, subset selection, hyperparameter tuning, and k-fold cross validation of many different predictive models (both quantitative/continuous prediction and categorical classification).**
 
 
 <br><br>
