@@ -57,9 +57,6 @@ This project utilizes **supervised classification models** and **remote sensing 
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Salem Walkability Map" style="width: 300px; border: 1px solid black;">
 </a><br>
 
-improving and expanding the existing pedestrian network in
-ways that enhance equal access and promote the use of walking
-
 This project—as a partnership with the UO Sustainable City Year Program and the City of Salem, Oregon—utilizes large spatial datasets of different walkability factors and demands, with the objective of improving and expanding the city's existing pedestrian networks. The project involves **data cleaning, joining, selection/filtering, and weighted analysis** using **ArcGIS Pro** to create a deliverable map of city planning recommendations.
 
 [Layer Files Available in my GitHub Repository](https://github.com/siegelhannah/Salem-Walkability)
