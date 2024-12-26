@@ -45,7 +45,7 @@ It includes **data cleaning/preprocessing, exploratory data analysis, hypothesis
     <img src="{{ site.baseurl }}/assets/classifications.jpg" alt="Eagle Creek Classification Map" style="width: 300px; border: 1px solid black;">
 </a><br>
 
-This project used **supervised classification models** and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth** were used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
+This project utilizes **supervised classification models** and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth** are used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
 
 [LANDSAT 8 band files, ArcGIS/QGIS layer files, study area & training points shape files, and deliverable map layouts available in my GitHub repository](https://github.com/siegelhannah/Salem-Walkability)
 
@@ -60,7 +60,7 @@ This project used **supervised classification models** and **remote sensing tech
 improving and expanding the existing pedestrian network in
 ways that enhance equal access and promote the use of walking
 
-This project—as a partnership with the UO Sustainable City Year Program and the City of Salem, Oregon—utilized large spatial datasets of different walkability factors and demands, with the objective of improving and expanding the city's existing pedestrian networks. The project involved **data cleaning, joining, selection/filtering, and weighted analysis** using **ArcGIS Pro** to create a deliverable map of city planning recommendations.
+This project—as a partnership with the UO Sustainable City Year Program and the City of Salem, Oregon—utilizes large spatial datasets of different walkability factors and demands, with the objective of improving and expanding the city's existing pedestrian networks. The project involves **data cleaning, joining, selection/filtering, and weighted analysis** using **ArcGIS Pro** to create a deliverable map of city planning recommendations.
 
 [Layer Files Available in my GitHub Repository](https://github.com/siegelhannah/Salem-Walkability)
 
