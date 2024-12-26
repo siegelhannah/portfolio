@@ -24,8 +24,9 @@ permalink: /projects/
 
 ### Notable project mention: Sustainability and Energy Usage Data Analytics [(View on my GitHub)](https://github.com/siegelhannah/Energy-Use-Sustainability)
 
-<img src="{{ site.baseurl }}/assets/Sustainability-ipynb-plot.jpg" alt="CO2 scatterplot" style="width: 300px; border: 1px solid black;">
-<br>
+<a href="{{ site.baseurl }}/assets/sustainabilityplot.pdf">
+    <img src="{{ site.baseurl }}/assets/Sustainability-ipynb-plot.jpg" alt="Eagle Creek Classification Map" style="width: 500px; border: 1px solid black;">
+</a><br>
 
 This project analyzes energy production and consumption data across countries to obtain sustainability insights (for example, the amount of CO2 emissions of each country versus their energy sources, wealth, and other factors).
 <br>
