@@ -47,7 +47,7 @@ It includes **data cleaning/preprocessing, exploratory data analysis, hypothesis
 
 This project utilizes **supervised classification models** (random forest classification) and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire. **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth** are used to process and visualize changes over time, delivering ecological insights about the region's regrowth.
 
-[LANDSAT 8 band files, ArcGIS/QGIS layer files, study area & training points shape files, and deliverable map layouts available in my GitHub repository](https://github.com/siegelhannah/Salem-Walkability)
+[LANDSAT 8 band files, ArcGIS/QGIS layer files, study area & training points shape files, and deliverable map layouts available in my GitHub repository](https://github.com/siegelhannah/EagleCreek-Fire-Analysis)
 
 <br>
 
