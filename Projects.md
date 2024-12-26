@@ -13,7 +13,7 @@ permalink: /projects/
 <p>
   Visit 
   <span class="github-link">
-    <a href="https://github.com/siegelhannah" target="_blank">
+    <a href="https://github.com/siegelhannah?tab=repositories" target="_blank">
       My GitHub profile
     </a>
   </span> 
