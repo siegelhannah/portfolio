@@ -39,7 +39,7 @@ It includes **data cleaning/preprocessing, exploratory data analysis, hypothesis
   GIS Projects
 </h2>
 
-### Remote Sensing Analysis of Vegetation Burning and Regrowth - Eagle Creek Fire (click map to view):
+### Remote Sensing Analysis of Vegetation Burning and Regrowth - Eagle Creek Fire (click map to view project):
 
 <a href="{{ site.baseurl }}/assets/Eagle_Creek_Project.pdf">
     <img src="{{ site.baseurl }}/assets/classifications.jpg" alt="Eagle Creek Classification Map" style="width: 300px; border: 1px solid black;">
@@ -51,7 +51,7 @@ This project utilizes **supervised classification models** (random forest classi
 
 <br>
 
-### Geospatial Analysis of Walkability in Salem, Oregon (click map to view):
+### Geospatial Analysis of Walkability in Salem, Oregon (click map to view project):
 
 <a href="{{ site.baseurl }}/assets/Salem_Final_Project.pdf">
     <img src="{{ site.baseurl }}/assets/FinalMapNeighborhoodIssues.jpg" alt="Salem Walkability Map" style="width: 300px; border: 1px solid black;">
