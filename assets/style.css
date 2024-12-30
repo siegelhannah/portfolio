@@ -95,6 +95,52 @@ nav ul li a:hover {
   text-decoration: underline; /* Underline on hover */
 }
 
+
+
+/* Styling for the Resume Page */
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Container for both resumes */
+.resume-container {
+  display: flex;
+  justify-content: center; /* Center the items horizontally */
+  gap: 40px; /* Add spacing between the two resumes */
+  align-items: flex-start; /* Align the items to the top */
+  margin-bottom: 40px;
+}
+
+/* Each resume item styling */
+.resume-item {
+  text-align: center;
+  max-width: 300px;
+}
+
+/* Resume title styling */
+.resume-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Styling for the resume images */
+.resume-image {
+  width: 100%;
+  border: 1px solid black;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px; /* Rounded corners for the image */
+}
+
+/* Hover effect for images ? */
+.resume-image:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+
 /* Styling for Contact Page Links */
 .contact-link {
   display: inline-block;
