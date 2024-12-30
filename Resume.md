@@ -4,12 +4,19 @@ title: Resume
 permalink: /resume/
 ---
 
-<h1 style="text-align: center;">My Resume (downloadable)</h1>
+<h1 style="text-align: center;">My Resumes (downloadable)</h1>
 
-<div style="text-align: center;">
-    <a href="{{ site.baseurl }}/assets/Resume Nov 2024.pdf">
-        <img src="{{ site.baseurl }}/assets/Resume Nov 2024.jpg" alt="Resume" style="width: 300px; border: 1px solid black;">
-    </a>
+<div class="resume-container">
+    <div class="resume-item">
+        <h2 class="resume-title">Data Science Resume</h2>
+        <a href="{{ site.baseurl }}/assets/DSCI_Resume_Nov_2024.pdf">
+            <img src="{{ site.baseurl }}/assets/DSCI_Resume_Nov_2024.jpg" alt="DSCI Resume" class="resume-image">
+        </a>
+    </div>
+    <div class="resume-item">
+        <h2 class="resume-title">GIS Resume</h2>
+        <a href="{{ site.baseurl }}/assets/GIS_Resume_Nov_2024.pdf">
+            <img src="{{ site.baseurl }}/assets/GIS_Resume_Nov_2024.jpg" alt="GIS Resume" class="resume-image">
+        </a>
+    </div>
 </div>
-
-<br>
