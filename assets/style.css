@@ -173,3 +173,20 @@ h1 {
 }
 
 
+/* Styling for the project images */
+.project-image {
+  width: 100%;
+  border: 1px solid black;
+  max-width: 500px; /* Adjust the max-width as per your preference */
+  height: auto;
+  border-radius: 8px; /* Rounded corners for the image */
+}
+
+/* Hover effect for project images */
+.project-image:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+
+
