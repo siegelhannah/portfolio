@@ -9,14 +9,14 @@ permalink: /resume/
 <div class="resume-container">
     <div class="resume-item">
         <h2 class="resume-title">Data Science Resume</h2>
-        <a href="{{ site.baseurl }}/assets/DSCI Resume Dec2024.pdf">
-            <img src="{{ site.baseurl }}/assets/DSCI Resume Dec2024.jpg" alt="DSCI Resume" class="resume-image">
+        <a href="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI_Resume_Jan2025.pdf">
+            <img src="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI_Resume_Jan2025.jpg" alt="DSCI Resume" class="resume-image">
         </a>
     </div>
     <div class="resume-item">
         <h2 class="resume-title">GIS Resume</h2>
-        <a href="{{ site.baseurl }}/assets/SDS Resume Dec2024.pdf">
-            <img src="{{ site.baseurl }}/assets/SDS Resume Dec2024.jpg" alt="GIS Resume" class="resume-image">
+        <a href="{{ site.baseurl }}/assets/Hannah_Siegel_SDS_Resume_Jan2025.pdf">
+            <img src="{{ site.baseurl }}/assets/Hannah_Siegel_SDS_Resume_Jan2025.jpg" alt="GIS Resume" class="resume-image">
         </a>
     </div>
 </div>
