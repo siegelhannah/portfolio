@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<h1 style="text-align: center; margin-bottom: 40px;">My DSCI and GIS Projects</h1>
+<h1 style="text-align: center; margin-bottom: 40px;">My Data Science and GIS Projects</h1>
 
 <div class="projects-grid">
   {% assign sorted_projects = site.projects | sort: "order" | reverse %}
