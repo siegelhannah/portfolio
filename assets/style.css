@@ -259,30 +259,50 @@ img.homepage-headshot {
 
 
 
-/* Projects portfolio grid style settings*/
-.project-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 25px;
-  margin: 40px 0;
+/* --- PROJECTS PAGE GRID --- */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  max-width: 1100px;
+  margin: 0 auto 80px auto;
+  padding: 0 20px;
 }
 
 .project-card {
-  display: inline-block;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
-  width: 250px; /* or adjust based on preference */
-}
-
-.project-card img {
-  width: 100%;
-  border-radius: 8px;
+  padding: 20px;
   transition: transform 0.2s ease-in-out;
 }
 
-.project-card img:hover {
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+.project-thumb {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  transition: transform 0.2s ease-in-out;
+}
+
+.project-thumb:hover {
   transform: scale(1.05);
 }
 
+.project-card h3 {
+  font-size: 20px;
+  margin-top: 15px;
+  color: #0c4c30;
+}
 
-
+.project-card p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.4;
+}
