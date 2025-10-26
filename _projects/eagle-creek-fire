@@ -8,8 +8,23 @@ permalink: "/projects/eagle-creek-fire/"
 order: 4
 ---
 
-This project utilizes **supervised classification models** (random forest classification) and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire.  
+---
+title: Sustainability and Energy Usage
+category: Coding
+image: /assets/Sustainability-ipynb-plot.jpg
+intro: "Energy production and consumption analytics for sustainability insights."
+layout: project
+permalink: /projects/sustainability/
+order: 4
+---
 
-Tools and methods include: **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth**.  
+## Project Description
 
-Additional resources: [GitHub repository](https://github.com/siegelhannah/EagleCreek-Fire-Analysis)
+This project utilizes supervised classification models (random forest classification) and remote sensing techniques (band composites, NDVI change detection) to analyze satellite imagery, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire.  
+
+### Key methods:
+Tools and methods include: Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth. 
+
+### Links
+- [GitHub repository](https://github.com/siegelhannah/EagleCreek-Fire-Analysis)
+- [Written report](/assets/Eagle_Creek_Project.pdf)
