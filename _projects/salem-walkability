@@ -3,6 +3,7 @@ title: "Geospatial Analysis of Walkability in Salem, Oregon"
 category: "GIS"
 image: "/assets/FinalMapNeighborhoodIssues.jpg"
 intro: "Improving pedestrian networks using spatial datasets and analysis."
+layout: project
 permalink: "/projects/salem-walkability/"
 order: 3
 ---
