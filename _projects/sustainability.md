@@ -1,7 +1,7 @@
 ---
 title: Sustainability and Energy Usage
 category: Coding
-image: /assets/Sustainability-ipynb-plot.jpg
+image: /assets/sustainability-plot.jpg
 intro: "Energy production and consumption analytics for sustainability insights."
 layout: project
 permalink: /projects/sustainability/
