@@ -6,6 +6,7 @@ intro: "Energy production and consumption analytics for sustainability insights.
 layout: project
 permalink: /projects/sustainability/
 order: 5
+show_image: false
 ---
 ## Project Description
 
