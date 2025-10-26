@@ -6,6 +6,7 @@ intro: "Analyzing vegetation damage and recovery using satellite imagery and sup
 layout: project
 permalink: "/projects/eagle-creek-fire/"
 order: 4
+show_image: false
 ---
 
 ## Project Description
