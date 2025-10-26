@@ -1,0 +1,13 @@
+---
+title: "Geospatial Analysis of Walkability in Salem, Oregon"
+category: "GIS"
+image: "/assets/FinalMapNeighborhoodIssues.jpg"
+intro: "Improving pedestrian networks using spatial datasets and analysis."
+permalink: "/projects/salem-walkability/"
+---
+
+This project, done in partnership with the UO Sustainable City Year Program and the City of Salem, Oregon, utilizes large spatial datasets of different walkability factors and demands, with the objective of improving and expanding the city's existing pedestrian networks.  
+
+Key steps include **data cleaning, joining, selection/filtering, and weighted analysis** using **ArcGIS Pro**, resulting in a deliverable map of city planning recommendations.  
+
+Layer files and deliverables: [GitHub Repository](https://github.com/siegelhannah/Salem-Walkability)
