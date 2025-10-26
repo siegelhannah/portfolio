@@ -259,3 +259,30 @@ img.homepage-headshot {
 
 
 
+/* Projects portfolio grid style settings*/
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin: 40px 0;
+}
+
+.project-card {
+  display: inline-block;
+  text-align: center;
+  width: 250px; /* or adjust based on preference */
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.project-card img:hover {
+  transform: scale(1.05);
+}
+
+
+
