@@ -17,5 +17,6 @@ Key steps include data cleaning, joining, selection/filtering, and weighted anal
 
 ### Links
 - Layer files: [GitHub Repository](https://github.com/siegelhannah/Salem-Walkability)
-- Written report: 
+- [Written report]({{ site.baseurl }}/assets/Salem Final Project(1).pdf)  
+
 
