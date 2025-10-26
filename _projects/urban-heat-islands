@@ -8,16 +8,6 @@ permalink: "/projects/urban-heat-islands/"
 order: 2
 ---
 
----
-title: "Geospatial Analysis of Walkability in Salem, Oregon"
-category: "GIS"
-image: "/assets/FinalMapNeighborhoodIssues.jpg"
-intro: "Improving pedestrian networks using spatial datasets and analysis."
-layout: project
-permalink: "/projects/salem-walkability/"
-order: 3
----
-
 ## Project Description
 
 This project explores urban heat islands and heat severity using a StoryMap to visualize patterns across cities.  
