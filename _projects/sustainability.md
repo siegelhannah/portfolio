@@ -19,4 +19,3 @@ This project analyzes energy production and consumption data across countries to
 
 ### Links
 - [GitHub Repository](https://github.com/siegelhannah/Energy-Use-Sustainability)
-- [Download PDF](../assets/sustainabilityplot.pdf)
