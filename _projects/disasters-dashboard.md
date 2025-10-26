@@ -6,6 +6,7 @@ intro: "Interactive dashboard exploring patterns and impacts of natural disaster
 layout: project
 permalink: "/projects/disasters-dashboard/"
 order: 6
+show_image: false
 ---
 
 ## Project Description
