@@ -1,7 +1,6 @@
 ---
 title: "Natural Disasters Analytics Dashboard"
 category: "Data Science"
-image: "/assets/dashboard-plots.png"
 intro: "Interactive dashboard exploring patterns and impacts of natural disasters worldwide."
 layout: project
 permalink: "/projects/disasters-dashboard/"
