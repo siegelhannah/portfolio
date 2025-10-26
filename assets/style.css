@@ -2,7 +2,7 @@
 body {
   padding: 0 15px;
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Lato, sans-serif;
   background-color: #F0FAF7;
 }
 
@@ -216,7 +216,7 @@ h1 {
 /* Make sure no older selector overrides this — increase specificity if needed */
 img.homepage-headshot {
   width: 180px;
-  height: 180px;
+  height: 200px;
   object-fit: cover;
 }
 
