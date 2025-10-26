@@ -17,6 +17,6 @@ permalink: /projects/
         <h3>{{ project.title }}</h3>
         <p>{{ project.intro }}</p>
       </div>
-    {% endif % }
+    {% endif %}
   {% endfor %}
 </div>
