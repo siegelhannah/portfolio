@@ -17,4 +17,4 @@ Tools and methods include: Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Ear
 
 ### Links
 - [GitHub repository](https://github.com/siegelhannah/EagleCreek-Fire-Analysis)
-- [Written report](/assets/Eagle_Creek_Project.pdf)
+- [Written report]({{ site.baseurl }}/assets/Eagle_Creek_Project.pdf)  
