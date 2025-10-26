@@ -6,6 +6,7 @@ intro: "StoryMap visualizing urban heat islands and heat severity across regions
 layout: project
 permalink: "/projects/urban-heat-islands/"
 order: 2
+show_image: false
 ---
 
 ## Project Description
