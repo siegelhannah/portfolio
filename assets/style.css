@@ -42,57 +42,6 @@ nav ul li a:hover {
 
 
 
-/* --- HOMEPAGE STYLING --- */
-.homepage-content {
-  text-align: center;
-  margin: 40px auto 100px auto; /* Adds top + bottom space */
-  padding: 0 10px; /* Light padding for small screens */
-}
-
-.homepage-headshot {
-  width: 200px; /* Square image size */
-  height: 200px;
-  border-radius: 10px;
-  object-fit: cover; /* Ensures image crops nicely */
-  display: block;
-  margin: 0 auto 25px auto; /* Centers image and adds space below */
-}
-
-.intro-text {
-  max-width: 900px; /* Wider than before */
-  margin: 0 auto 40px auto;
-  text-align: left;
-  line-height: 1.7;
-  font-size: 18px;
-}
-
-/* The green skill + education boxes */
-.green-box {
-  background-color: #94C79D;
-  padding: 12px 20px;
-  max-width: 800px;
-  margin: 0 auto 25px auto;
-  border-radius: 8px;
-  text-align: center;
-}
-
-/* --- RESPONSIVENESS --- */
-@media (max-width: 768px) {
-  .intro-text {
-    font-size: 16px;
-    padding: 0 10px;
-    text-align: center; /* Center text for narrow screens */
-  }
-
-  .homepage-headshot {
-    width: 150px;
-    height: 150px;
-  }
-}
-
-
-
-
 /* Home Page Header Styling */
 .home-header {
   display: flex;
@@ -243,6 +192,69 @@ h1 {
 .project-image:hover {
   transform: scale(1.05);
   transition: transform 0.2s ease-in-out;
+}
+
+
+
+/* --- HOMEPAGE STYLING (place near the end of style.css) --- */
+.homepage-content {
+  text-align: center;
+  margin: 40px auto 100px auto; /* top, auto left/right, bottom space */
+  padding: 0 12px; /* small page padding */
+}
+
+/* Controlled square headshot */
+.homepage-headshot {
+  width: 180px;       /* exact square size on desktop */
+  height: 180px;
+  border-radius: 10px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 22px auto;
+}
+
+/* Make sure no older selector overrides this — increase specificity if needed */
+img.homepage-headshot {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+/* Intro text wider so it isn't too narrow on larger screens */
+.intro-text {
+  max-width: 980px;   /* wider: less narrow feeling */
+  margin: 0 auto 36px auto;
+  text-align: left;
+  line-height: 1.65;
+  font-size: 18px;
+}
+
+/* Center text on small screens and reduce size slightly */
+@media (max-width: 900px) {
+  .intro-text {
+    text-align: center;
+    font-size: 16px;
+    padding: 0 12px;
+  }
+}
+
+/* scale down headshot for small screens */
+@media (max-width: 768px) {
+  .homepage-headshot, img.homepage-headshot {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* The green skill + education boxes */
+.green-box {
+  background-color: #94C79D;
+  padding: 12px 18px;
+  max-width: 880px;
+  margin: 0 auto 22px auto;
+  border-radius: 8px;
+  text-align: center;
+  box-sizing: border-box;
 }
 
 
