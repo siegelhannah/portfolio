@@ -4,6 +4,7 @@ category: "GIS"
 image: "/assets/FinalMapNeighborhoodIssues.jpg"
 intro: "Improving pedestrian networks using spatial datasets and analysis."
 permalink: "/projects/salem-walkability/"
+order: 3
 ---
 
 This project, done in partnership with the UO Sustainable City Year Program and the City of Salem, Oregon, utilizes large spatial datasets of different walkability factors and demands, with the objective of improving and expanding the city's existing pedestrian networks.  
