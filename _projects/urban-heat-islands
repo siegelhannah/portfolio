@@ -4,6 +4,7 @@ category: "GIS"
 image: "/assets/storymapScreenshot.jpg"
 intro: "StoryMap visualizing urban heat islands and heat severity across regions."
 permalink: "/projects/urban-heat-islands/"
+order: 2
 ---
 
 This project explores urban heat islands and heat severity using a **StoryMap** to visualize patterns across cities.  
