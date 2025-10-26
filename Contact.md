@@ -9,7 +9,6 @@ permalink: /contact/
 <br>
 
 <h3 style="text-align: center;">
-  Send me a message on 
   <a href="https://www.linkedin.com/in/hannah-siegel-219162234/" class="contact-link">My LinkedIn: Hannah Siegel</a>
   <br><br>
   <a href="mailto:hannahsiegel87@gmail.com" class="contact-link">My Email: hannahsiegel87@gmail.com</a>
