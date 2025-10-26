@@ -9,8 +9,8 @@ permalink: /resume/
 <div class="resume-container">
     <div class="resume-item">
         <h2 class="resume-title">Data Science Resume</h2>
-        <a href="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI Resume.pdf">
-            <img src="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI Resume.jpg" alt="DSCI Resume" class="resume-image">
+        <a href="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI_Resume.pdf">
+            <img src="{{ site.baseurl }}/assets/Hannah_Siegel_DSCI_Resume.jpg" alt="DSCI Resume" class="resume-image">
         </a>
     </div>
     <div class="resume-item">
