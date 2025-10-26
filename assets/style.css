@@ -206,7 +206,7 @@ h1 {
 /* Controlled square headshot */
 .homepage-headshot {
   width: 180px;       /* exact square size on desktop */
-  height: 180px;
+  height: 190px;
   border-radius: 10px;
   object-fit: cover;
   display: block;
