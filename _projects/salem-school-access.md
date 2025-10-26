@@ -6,6 +6,7 @@ intro: "Maps showing school accessibility and equity in Salem, Oregon."
 layout: project
 permalink: "/projects/salem-school-access/"
 order: 1
+show_image: false
 ---
 
 ## Project Description
