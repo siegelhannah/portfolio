@@ -9,12 +9,12 @@ permalink: /projects/
 <div class="projects-grid">
   {% assign sorted_projects = site.projects | sort: "order" | reverse %}
   {% for project in sorted_projects %}
-  <div class="project-card">
-    <a href="{{ project.url | relative_url }}">
-      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="project-thumb">
-    </a>
-    <h3>{{ project.title }}</h3>
-    <p>{{ project.intro }}</p>
-  </div>
+    <div class="project-card">
+      <a href="{{ project.url | relative_url }}">
+        <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="project-thumb">
+      </a>
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.intro }}</p>
+    </div>
   {% endfor %}
 </div>
