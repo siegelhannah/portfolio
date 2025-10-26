@@ -8,16 +8,6 @@ permalink: "/projects/eagle-creek-fire/"
 order: 4
 ---
 
----
-title: Sustainability and Energy Usage
-category: Coding
-image: /assets/Sustainability-ipynb-plot.jpg
-intro: "Energy production and consumption analytics for sustainability insights."
-layout: project
-permalink: /projects/sustainability/
-order: 4
----
-
 ## Project Description
 
 This project utilizes supervised classification models (random forest classification) and remote sensing techniques (band composites, NDVI change detection) to analyze satellite imagery, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire.  
