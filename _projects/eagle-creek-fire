@@ -1,0 +1,13 @@
+---
+title: "Eagle Creek Fire Remote Sensing Analysis"
+category: "GIS"
+image: "/assets/classifications.jpg"
+intro: "Analyzing vegetation damage and recovery using satellite imagery and supervised classification."
+permalink: "/projects/eagle-creek-fire/"
+---
+
+This project utilizes **supervised classification models** (random forest classification) and **remote sensing techniques** (band composites, NDVI change detection) to analyze **satellite imagery**, assessing vegetation damage and recovery in the context of the Eagle Creek forest fire.  
+
+Tools and methods include: **Python Scikit-Learn, ArcGIS Pro, QGIS, and Google Earth**.  
+
+Additional resources: [GitHub repository](https://github.com/siegelhannah/EagleCreek-Fire-Analysis)
