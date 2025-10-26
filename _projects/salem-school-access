@@ -8,11 +8,11 @@ permalink: "/projects/salem-school-access/"
 order: 1
 ---
 
+## Project Description
+
 This project includes multiple maps analyzing school accessibility in Salem, Oregon, highlighting disparities in accessibility across neighborhoods.  
 
 Maps included:  
 - [Map 1]({{ site.baseurl }}/assets/Layout2.pdf)  
 - [Map 2]({{ site.baseurl }}/assets/Layout1.pdf)  
 - [Map 3]({{ site.baseurl }}/assets/Layout3.pdf)  
-
-Techniques: **ArcGIS Pro, spatial data analysis, weighted metrics, and geospatial visualization**.
