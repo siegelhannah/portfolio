@@ -6,6 +6,7 @@ intro: "Improving pedestrian networks using spatial datasets and analysis."
 layout: project
 permalink: "/projects/salem-walkability/"
 order: 3
+show_image: false
 ---
 
 ## Project Description
