@@ -4,6 +4,7 @@ category: "GIS"
 image: "/assets/Layout2_page-0001.jpg"
 intro: "Maps showing school accessibility and equity in Salem, Oregon."
 permalink: "/projects/salem-school-access/"
+order: 1
 ---
 
 This project includes multiple maps analyzing school accessibility in Salem, Oregon, highlighting disparities in accessibility across neighborhoods.  
