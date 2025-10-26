@@ -5,7 +5,7 @@ image: /assets/Sustainability-ipynb-plot.jpg
 intro: "Energy production and consumption analytics for sustainability insights."
 layout: project
 permalink: /projects/sustainability/
-order: 4
+order: 5
 ---
 ## Project Description
 
