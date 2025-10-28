@@ -5,7 +5,7 @@ image: "/assets/dashboard-plots.png"
 intro: "Interactive dashboard exploring patterns and impacts of natural disasters worldwide."
 layout: project
 permalink: "/projects/disasters-dashboard/"
-order: 6
+order: 4
 show_image: false
 ---
 
