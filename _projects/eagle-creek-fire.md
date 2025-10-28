@@ -5,7 +5,7 @@ image: "/assets/classifications.jpg"
 intro: "Analyzing vegetation damage and recovery using satellite imagery and supervised classification."
 layout: project
 permalink: "/projects/eagle-creek-fire/"
-order: 5
+order: 6
 show_image: false
 ---
 
