@@ -30,4 +30,5 @@ This project deepened my understanding of terrain visualization techniques and t
 
 ## Download
 
-- 📄 **[Download high-resolution PDF](/assets/Lab4_TerrainDesign_Tahkenitch.pdf)**
+- 📄 **[Download high-resolution PDF]({{ "/assets/Lab4_TerrainDesign_Tahkenitch.pdf" | relative_url }})**
+
