@@ -17,7 +17,7 @@ This map series presents reference maps of Portland, Oregon, emphasizing clarity
 These maps are intended for users seeking a clear geographic reference for navigating Portland and the surrounding Willamette Valley.
 
 **Concepts, Narrative, & Design Choices**  
-This series of maps is informed by principles of visual hierarchy in showing city labels and roads, balance in layout, as well as using color sparingly to show crucial variables without adding too much complexity. The most important features for navigation and spatial understanding are emphasized using bold colors and increased size. Symbolization and label density were carefully balanced to maintain clarity at multiple viewing scales.
+This series of maps is informed by principles of visual hierarchy in showing city labels and roads, balance in layout, as well as using color sparingly to show crucial variables without adding too much complexity. The most important features for navigation and spatial understanding are emphasized using bold colors and increased size. Symbolization and label density were carefully balanced as well.
 
 **Data Sources & Processing**  
 Data for this ArcGIS Pro project were sourced from publicly available GIS datasets, including natural features like elevation and water bodies, as well as transportation and boundary layers. Features were filtered to reduce visual clutter.
