@@ -15,7 +15,7 @@ This series of maps visualizes housing unit vacancy rates across the United Stat
 ## Cartographer’s Statement
 
 **Audience & Purpose**  
-This layout is designed for a general audience interested in housing patterns, including students, planners, and policy-curious viewers. The goal is to make regional vacancy trends understandable at a national scale.
+This layout is designed for a general audience interested in housing patterns. The goal is to make regional vacancy trends understandable at a national scale.
 
 **Concepts, Narrative, & Design Choices**  
 A choropleth design was chosen to represent vacancy rates by geographic unit using a sequential color palette. I used a manual classification scheme based on an Equal Interval approach, because it best encompassed the varying distributions of data in all five maps (United States, Alaska, Hawai'i, Oregon, and Portland). Although this approach resulted in unequal numbers of data points per class, it better reflected the distribution and skew of each dataset. 
