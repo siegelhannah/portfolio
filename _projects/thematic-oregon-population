@@ -1,0 +1,49 @@
+---
+title: "Oregon Population Variables by County"
+category: "Cartography"
+image: "/assets/oregon-population-county.png"
+intro: "A county-level thematic map examining population-related variables across Oregon."
+layout: project
+permalink: "/projects/oregon-population-county/"
+order: 9
+---
+
+## Overview
+
+This map presents selected population variables at the county level in Oregon, offering insight into demographic distribution and regional variation across the state.
+
+## Cartographer’s Statement
+
+**Audience & Purpose**  
+This map is intended for a broad audience, including students, researchers, and residents interested in Oregon’s demographic geography. The purpose is to clearly communicate county-level population differences.
+
+**Concepts & Narrative**  
+The map is informed by thematic cartography and regional analysis, emphasizing how population variables vary spatially rather than focusing on individual locations.
+
+**Design Choices**  
+A choropleth approach was used to map population variables by county. Color choices prioritize contrast and legibility while remaining accessible. County boundaries provide a familiar and interpretable geographic framework for statewide comparison.
+
+**Data Sources & Processing**  
+Population data were sourced from publicly available demographic datasets and joined to county boundary shapefiles. Variables were selected based on relevance and clarity, and data were normalized where appropriate to support fair comparison.
+
+**Ethical & Accuracy Considerations**  
+Aggregating data at the county level can mask intra-county variation. This limitation was accepted to maintain clarity and avoid overloading the map with complexity.
+
+**Relationship to Place**  
+Mapping Oregon’s population required balancing personal familiarity with the state against the need for neutral, data-driven representation.
+
+**Process & Tools**  
+The map was produced using GIS software, with iterative adjustments to classification schemes, labels, and layout.
+
+**Intended Experience**  
+I aim for viewers to quickly identify regional population trends and develop a clearer spatial understanding of Oregon’s demographic landscape.
+
+**Limitations**  
+This map does not represent changes over time or demographic diversity within counties.
+
+**Learning Reflection**  
+This project strengthened my understanding of how scale and aggregation influence demographic storytelling in maps.
+
+## Download
+
+- 📄 **[Download high-resolution PDF](/assets/oregon-population-county.pdf)**
