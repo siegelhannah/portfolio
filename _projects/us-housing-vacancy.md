@@ -1,7 +1,7 @@
 ---
 title: "U.S. Housing Unit Vacancy Rates"
 category: "Cartography"
-image: "/assets/us-housing-vacancy.png"
+image: "/assets/Lab2_HousingVacancyChoropleths-1.png"
 intro: "A thematic map exploring spatial patterns in housing vacancy rates across the United States."
 layout: project
 permalink: "/projects/us-housing-vacancy/"
@@ -46,4 +46,4 @@ Creating this map deepened my understanding of how classification and color deci
 
 ## Download
 
-- 📄 **[Download high-resolution PDF](/assets/us-housing-vacancy.pdf)**
+- 📄 **[Download high-resolution PDF](/assets/Lab2_HousingVacancyChoropleths.pdf)**
