@@ -14,32 +14,17 @@ This map series presents reference maps of Portland, Oregon, emphasizing clarity
 ## Cartographer’s Statement
 
 **Audience & Purpose**  
-These maps are intended for residents, visitors, and students seeking a clear geographic reference for navigating Portland and understanding its spatial structure.
+These maps are intended for users seeking a clear geographic reference for navigating Portland and the surrounding Willamette Valley.
 
-**Concepts & Narrative**  
-The work is informed by principles of reference cartography—prioritizing hierarchy, balance, and legibility over thematic complexity.
-
-**Design Choices**  
-Color was used sparingly to establish visual hierarchy without overwhelming the reader. A standard projected coordinate system was selected to preserve local accuracy. Symbolization and label density were carefully balanced to maintain clarity at multiple viewing scales.
+**Concepts, Narrative, & Design Choices**  
+This series of maps is informed by principles of visual hierarchy in showing city labels and roads, balance in layout, as well as using color sparingly to show crucial variables without adding too much complexity. The most important features for navigation and spatial understanding are emphasized using bold colors and increased size. Symbolization and label density were carefully balanced to maintain clarity at multiple viewing scales.
 
 **Data Sources & Processing**  
-Data were sourced from publicly available GIS datasets, including administrative boundaries, hydrography, and transportation layers. Features were generalized and selectively omitted to reduce visual clutter. Ethical considerations included avoiding misleading scale relationships and maintaining accurate spatial representation.
+Data for this ArcGIS Pro project were sourced from publicly available GIS datasets, including natural features like elevation and water bodies, as well as transportation and boundary layers. Features were filtered to reduce visual clutter.
 
-**Relationship to Place**  
-As someone engaging with Portland through mapping, my design decisions reflect both familiarity with urban cartographic conventions and a desire to present the city accessibly to a broad audience.
-
-**Process & Tools**  
-The maps were created using GIS software with iterative design adjustments focused on typography, spacing, and visual hierarchy.
-
-**Intended Experience**  
-The goal is to evoke confidence and ease—allowing viewers to quickly orient themselves within the city.
-
-**Limitations**  
-These maps do not capture temporal change or social dynamics and should be understood as static reference representations.
-
-**Learning Reflection**  
-This project reinforced the importance of restraint in map design and the value of iteration when refining cartographic communication.
+**Reflection**  
+These maps are solely static reference maps and do not capture temporal change or social variables. This project reinforced the importance of restraint and omission in map design and cartographic communication.
 
 ## Download
 
-- 📄 **[Download high-resolution PDF]( /assets/Lab1_ReferenceMaps.pdf )**
+- 📄 **[Download high-resolution PDF](/assets/Lab1_ReferenceMaps.pdf)**
