@@ -2,7 +2,7 @@
 title: "Reference Maps of Portland, Oregon"
 category: "Cartography"
 image: "/assets/Lab1_ReferenceMaps-1.png"
-intro: "A set of reference maps designed to support orientation and spatial understanding of Portland, Oregon."
+intro: "A set of reference maps designed to support orientation and navigation of Portland, Oregon and the Willamette Valley."
 layout: project
 permalink: "/projects/portland-reference-maps/"
 order: 7
