@@ -28,5 +28,5 @@ Data were obtained from U.S. Census datasets, and vacancy rates were calculated 
 The modifiable areal unit problem (MAUP) is something that affected the visualization of how vacancy rates look at different scales. County-level visualizations can aggregate many census blocks and oversimplify local variation. Inversely, census block-level visualizations show more detail but can also exaggerate differences depending on how boundaries are drawn. Dividing into different spatial units can make the same underlying data tell very different stories.
 
 ## Download
+- 📄 **[Download high-resolution PDF]({{ "/assets/Lab2_HousingVacancyChoropleths.pdf" | relative_url }})**
 
-- 📄 **[Download high-resolution PDF](/assets/Lab2_HousingVacancyChoropleths.pdf)**
