@@ -1,7 +1,7 @@
 ---
 title: "Oregon Population Variables by County"
 category: "Cartography"
-image: "/assets/oregon-population-county.png"
+image: "/assets/Lab3_ThematicMaps_Symbolization-1.png"
 intro: "A county-level thematic map examining population-related variables across Oregon."
 layout: project
 permalink: "/projects/oregon-population-county/"
@@ -46,4 +46,4 @@ This project strengthened my understanding of how scale and aggregation influenc
 
 ## Download
 
-- 📄 **[Download high-resolution PDF](/assets/oregon-population-county.pdf)**
+- 📄 **[Download high-resolution PDF](/assets/Lab3_ThematicMaps_Symbolization.pdf)**
