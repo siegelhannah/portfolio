@@ -26,5 +26,4 @@ Data for this ArcGIS Pro project were sourced from publicly available GIS datase
 These maps are solely static reference maps and do not capture temporal change or social variables. This project reinforced the importance of restraint and omission in map design and cartographic communication.
 
 ## Download
-
-- 📄 **[Download high-resolution PDF](/assets/Lab1_ReferenceMaps.pdf)**
+- 📄 **[Download high-resolution PDF]({{ "/assets/Lab1_ReferenceMaps.pdf" | relative_url }})**
