@@ -1,10 +1,10 @@
 ---
 title: "North Atlantic Right Whales Infographic"
 category: "Cartography"
-image: "/assets/Lab4_TerrainDesign_Tahkenitch-1.png"
+image: "/assets/Hsiegel_North_Atlantic_Right_Whales-1.png"
 intro: "A map infographic highlighting the dangers of expanding shipping traffic to endangered North Atlantic right whales"
 layout: project
-permalink: "/projects/tahkenitch-lake-terrain/"
+permalink: "/projects/north-atlantic-right-whales/"
 order: 11
 ---
 
@@ -22,4 +22,4 @@ Reflecting on my own perspective as a cartographer and data scientist, I believe
 
 ## Download
 
-- 📄 **[Download high-resolution PDF]({{ "/assets/Lab4_TerrainDesign_Tahkenitch.pdf" | relative_url }})**
+- 📄 **[Download high-resolution PDF]({{ "/assets/Hsiegel_North_Atlantic_Right_Whales.pdf" | relative_url }})**
